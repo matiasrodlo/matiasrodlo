@@ -8,6 +8,6 @@ In my repositories, you’ll find everything from the first website I built to p
 **IT:** Ubuntu · macOS · Windows · JavaScript · Python · HTML · CSS · Node.js · Vue.js · MySQL · PostgreSQL · MongoDB · FAISS · QLoRA · RAG · LangChain · PyTorch · pandas · NumPy · Jupyter · GCP · AWS · Git · Docker · Cloudflare · CPanel  
 **Design:** Illustrator · Photoshop · Figma · Adobe XD · Final Cut · Sony Vegas  
 **Tools:** VS Code · Cursor · WordPress · Segment · Mixpanel · Hotjar · Google Analytics · Jira · Excel  
-**Hardware:** MacBook Pro M4 Max (128GB / 8TB) · Arduino R4 WiFi · Raspberry Pi 4 · Jetson Nano  
+**Hardware:** MacBook Pro M4 Max (128GB / 8TB) · Arduino R4 WiFi · Raspberry Pi 4 · Jetson Nano · Texas TI-83 Plus
 
 > *Some of these technologies I've used in depth; others I'm still exploring or learning.*
