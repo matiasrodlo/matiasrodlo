@@ -10,4 +10,4 @@ In my repositories, you’ll find everything from the first website I built to p
 **Tools:** VS Code · Cursor · WordPress · Segment · Mixpanel · Hotjar · Google Analytics · Jira · Excel  
 **Hardware:** MacBook Pro M4 Max (128GB / 8TB) · Arduino R4 WiFi · Raspberry Pi 4 · Jetson Nano  
 
-> *Some tools I've used in depth; others I'm still exploring or learning.*
+> *Some of these technologies I've used in depth; others I'm still exploring or learning.*
